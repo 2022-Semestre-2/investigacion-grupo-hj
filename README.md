@@ -1,4 +1,4 @@
-# POO-V22-Prototype
+# investigacion-grupo-hj
 
 Ejemplo en Java del patrón de diseño Prototype.
 
